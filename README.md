@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on [gtd](https://github.com/josupalacio/gtd_repository.git)
 
-- 🌱 I’m currently learning **ASP.NET .NET CORE TypeScript**
-
+- 🌱 I’m currently learning **ASP.NET, .NET CORE & TypeScript**
+  
 - 💼 My LinkedIn [www.linkedin.com/in/josué-ferrari-gil-a85748330](www.linkedin.com/in/josué-ferrari-gil-a85748330)
 
 - 👨‍💻 All of my projects are available at [https://github.com/josupalacio](https://github.com/josupalacio)
